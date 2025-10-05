@@ -1,11 +1,12 @@
 # QR Code Label Generator for ASNs in Paperless-ngx
 
-This is a quick'n'dirty fork of
-[tmaier/asn-qr-code-label-generator](https://github.com/tmaier/asn-qr-code-label-generator)
-tailored to my very own personal needs (I just save the [index.html](index.html)
-locally and open it in a browser).
-Please go to the original repository to obtain a description and a generall
-usable version of this tool.
+This is **a quick'n'dirty fork** of `tmaier/asn-qr-code-label-generator`
+tailored to my own personal needs (my sincere thanks to Tobias L. Maier for his excellent work).
+For my specific workflow I myself use this copy via
+[ebosslar.github.io/asn-qr-code-label-generator](https://ebosslar.github.io/asn-qr-code-label-generator/).
+For anyone else I highly recommend to just [visit to the original repository](https://github.com/tmaier/asn-qr-code-label-generator)
+and to use the official instance of this tool which available at
+[tobiasmaier.info/asn-qr-code-label-generator](https://tobiasmaier.info/asn-qr-code-label-generator/).
 
 <!--
 ## About the Project
